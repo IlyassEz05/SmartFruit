@@ -2,6 +2,9 @@
 
 A cross-platform mobile application built with Flutter that combines computer vision, artificial intelligence, and voice interaction to classify fruits in real-time.
 
+## 🎓 Academic Context
+This project was developed as part of a school course (EMSI) in Cross-Platform Development and Deep Learning.
+
 ## 🌟 Features
 
 ### 🔐 Firebase Authentication

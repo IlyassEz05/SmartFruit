@@ -43,6 +43,8 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+android/build/reports/
+android/build/intermediates/
 
 # Environment variables (sensitive data - API keys, etc.)
 .env

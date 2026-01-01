@@ -258,6 +258,30 @@ If you see "Failed host lookup" errors:
 - Check API key format (Gemini keys start with `AIza`)
 - Ensure `flutter_dotenv` loads `.env` in `main.dart`
 
+## 📸 Screenshots
+
+### 🔐 Authentication
+![Login](screenshots/Authentification.png)
+
+### 🏠 Home
+![Home](screenshots/Page d'accueil.png)
+
+
+### 🍎 Fruit Classification
+![Import](screenshots/Importation d'une image de fruit.png)
+![Result](screenshots/Classification d'un fruit.png)
+
+### 🗣️ Voice Assistant
+![Voice Assistant](screenshots/Assistant vocal.png)
+
+### 🗣️ Profile
+![Profile](screenshots/Profil utilisateur.png)
+
+### 🗣️ About
+![About](screenshots/À propos.png)
+
+
+
 ## 📄 License
 
 This project is part of an academic project. See LICENSE file for details.
